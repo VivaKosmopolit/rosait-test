@@ -61,10 +61,6 @@ header {
     font-size: calc(16px + (40 - 16) * ((100vw - 320px) / (1980 - 300)));
 }
 
-.slider-content p {
-    /*    font-size: calc(16px + 6 * ((100vw - 320px) / 680));*/
-}
-
 .btn-orange {
     background-color: #ff891e;
     border: 1px solid #ff891e !important;
